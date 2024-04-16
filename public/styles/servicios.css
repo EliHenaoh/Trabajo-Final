@@ -1,0 +1,31 @@
+
+
+footer{
+    padding: 32px;
+    background-color: rgb(241, 248, 144);}
+
+footer a{ 
+color: black;
+font-style: normal;
+text-decoration:none ;
+
+}
+.minavegacion {
+    background-color: rgb(241, 248, 144);
+    font-size: 40px;
+}
+form{
+width: 400px;
+
+}
+.contenedor-Servicios{
+margin-top: 40px;
+background-color: brown;
+}
+.card img{
+    height: 500px;
+    object-fit: contain;
+}
+.form-label{
+    
+}

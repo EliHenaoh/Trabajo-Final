@@ -1,0 +1,75 @@
+
+    
+    
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        overflow-x: hidden;
+    }
+
+
+
+
+    .Logo {
+        width: 100px;
+
+    }
+
+    .minavegacion {
+        background-color: rgb(241, 248, 144);
+        font-size: 40px;
+    }
+
+    .Micarousel {
+        padding: 60px;
+        width: 100%;
+
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+     }
+
+   .sisiguesbanner {
+    padding: 60px;
+        width: 100%;
+    
+
+    }
+    footer{
+        padding: 32px;
+        background-color: rgb(241, 248, 144);}
+footer a{ 
+    color: black;
+    font-style: normal;
+    text-decoration:none ;
+}
+.Micarousel img{
+    max-width:1500px ;
+}
+.carousel-item{
+    width: auto !important;
+    margin: 0 !important;
+}
+ .cajas{
+    padding: 45px;
+    height: 300px;
+    display: flex;
+    gap: 50px;
+    justify-content:center ;
+    align-items: center;
+  }  
+  .cajas img{
+height: 200px;
+object-fit: contain;
+
+
+  } 
+  table{
+    width: 300px !important;
+    
+    
+  }
+  .Programa{
+    padding: 80px ;
+  }
