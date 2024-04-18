@@ -4,4 +4,4 @@
 aca me hablan de su pagina, que pensaron cuando la hicieron, que contenido tiene, etc
 
 ## Autor
-Sus nombres
+Sus nombres -> Eliana Henao

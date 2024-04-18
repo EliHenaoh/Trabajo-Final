@@ -1,0 +1,20 @@
+{
+  "name": "actividad2desarrollo-de-un-sitio-web",
+  "version": "1.0.0",
+  "description": "aca me hablan de su pagina, que pensaron cuando la hicieron, que contenido tiene, etc",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "Eliana Henao",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.3.2",
+    "nodemon": "^3.1.0"
+  }
+}
