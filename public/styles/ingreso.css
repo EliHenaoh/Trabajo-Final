@@ -29,7 +29,7 @@ body {
     left: 50%;
     transform: translate(-50%, -50%);
     width: 400px;
-    background: rgb(0, 2, 1);
+    background: rgba(209, 96, 238, 0.535);
     border-radius: 10px;
 }
 
