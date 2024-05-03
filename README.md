@@ -1,3 +1,8 @@
-## Entrega Final 
-## Este proyecto 
-## Eliana Patricia Henao Henao
+## TITULO
+Entrega Final
+
+## DESCRIPCIÓN
+He realizado este proyecto con el fin de proyectar mis aspiraciones para el futuro, especialmente mientras me acerco al final de mi carrera como estudiante de psicología. La creación de esta página web es un paso importante hacia la realización de mis metas profesionales. Estoy a punto de concluir mi formación académica, y esta plataforma será el medio a través del cual podré compartir mi conocimiento y experiencia en diferentes campos de la psicología. La frase 'susurro en el alma' siempre ha tenido un significado especial para mí, incluso antes de que decidiera estudiar psicología. Incorporar esta expresión en este espacio virtual representa uno de mis mayores logros hasta ahora. Estoy emocionado/a por la oportunidad de ofrecer cursos que reflejen mi pasión y mi compromiso con esta disciplina, y estoy ansioso/a por ver cómo esta plataforma contribuirá a mi desarrollo profesional en el futuro.
+
+## Autor
+Eliana Patricia Henao Henao
