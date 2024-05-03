@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    height: 20px;
+    }
+.Logo {
+    width: 100px;
+
+}
+
+.minavegacion {
+    background-color: rgb(241, 248, 144);
+    font-size: 40px;
+}
+
+footer{
+    
+    background-color: rgb(241, 248, 144);
+    padding: 32px;
+    text-align:center ;
+bottom: 0;
+font-size: 15px;
+width: 100%;
+}

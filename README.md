@@ -1,7 +1,3 @@
-## TITULO: ENTREGA FINAL
-
-## DESCRIPCIÓN
-aca me hablan de su pagina, que pensaron cuando la hicieron, que contenido tiene, etc
-
-## Autor
-Sus nombres -> Eliana Henao
+## Entrega Final 
+## Este proyecto 
+## Eliana Patricia Henao Henao
